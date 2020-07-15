@@ -1,0 +1,29 @@
+_repo: An-essay-on-the-origin-of-language-based-on-modern-researches_62598
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farrar, F. W. (Frederic William)
+    aliases:
+    - Farrar, Dean (Frederic William)
+    - Farrar, Frederic William
+    - Farrar, Frederick William
+    - Hope, F. T. L.
+    - Farrar, Frederic W.
+    birthdate: 1831
+    deathdate: 1903
+    gutenberg_agent_id: '3715'
+    url: http://www.gutenberg.org/2009/agents/3715
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Farrar
+description: ''
+gutenberg_issued: '2020-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An essay on the origin of language, based on modern researches
+url: http://www.gutenberg.org/ebooks/62598
